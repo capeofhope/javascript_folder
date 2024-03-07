@@ -27,7 +27,7 @@ const newArr=myArr.join();
 // console.log(typeof newArr);//string
 
 //slice,splice
-console.log("A ",myArr);
+console.log("A :",myArr);
 
 const m=myArr.slice(1,3);//no change in new array
 console.log(m);
